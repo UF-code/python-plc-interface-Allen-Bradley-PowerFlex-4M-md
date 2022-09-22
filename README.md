@@ -1,5 +1,5 @@
 # PLC Interface Allen-Bradley PowerFlex 4M
-Monitoring the Device Resources & Inc/Dec Hertz
+Monitoring & Controlling the Device Resources
 
 ## Tech Stack
 > Python, PyQT5, PyQtGraph, PyModbus
